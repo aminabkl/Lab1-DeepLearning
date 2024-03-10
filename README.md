@@ -17,6 +17,8 @@ To address class imbalance, data augmentation techniques were applied to ensure 
 
 Visualizations of loss and accuracy over epochs were created to analyze the model's training and testing performance. The project also included the calculation of essential metrics, such as accuracy, sensitivity, and F1 score, for both training and test datasets. Finally, regularization techniques, specifically L1 and L2 regularization, were introduced to the neural network architecture, and the subsequent results were compared with the initial model. This comprehensive approach allowed for a holistic understanding of the dataset, effective model development, and rigorous evaluation techniques.
 
+(dataset used : https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
+
 ## Conclusion
 
 Throughout the course of this project, I have acquired valuable insights and skills, such as:
